@@ -1,0 +1,20 @@
+#/*
+#!src/
+#!*.gitignore
+#!pom.xml
+
+### Eclipse ###
+.classpath
+.project
+.settings/*
+.metadata/
+.settings_backup/*
+.checkstyle
+*.publishsettings
+.metadata
+
+### SVN ###
+.svn/
+
+### Maven ###
+target/*
